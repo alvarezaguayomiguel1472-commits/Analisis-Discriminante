@@ -29,9 +29,14 @@ Para llevar a cabo este proyecto se utilizaron las siguientes librerías:
 * **Seaborn:** Librería que en combinación con Matplotlib permite realizar gráficos estadísticos.
 * **ScikitLearn:** Librería utilizada para machine learning.
 
+## Conclusiones
 | Métrica | LDA (Linear) | QDA (Quadratic) |
 | :--- | :---: | :---: |
-| **Accuracy** | *0.XX* | *0.XX* |
-| **Precision** | *0.XX* | *0.XX* |
-| **Recall** | *0.XX* | *0.XX* |
-| **F1-Score** | *0.XX* | *0.XX* |
+| **Accuracy** | *0.944* | *0.962* |
+| **Precision** | *0.946* | *0.966* |
+| **Recall** | *0.944* | *0.962* |
+| **F1-Score** | *0.945* | *0.962* |
+| **Tiempo (seg)** | *0.019* | *0.002* |
+
+QDA es superior a LDA para este conjunto de datos.
+
